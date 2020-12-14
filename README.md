@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrita</h1>
 <h3 align="center">Learner | Coder | Cybersecurity & CTF enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/11000753-Girl-with-the-puppy" >
+<img align="right" alt="coding" width="400" src="https://www.freepik.com/premium-vector/girl-puppy-sit-look-up-moon-night-sky-cartoon-background_8456922.htm" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 
