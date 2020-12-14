@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Amritaraneekesh@gmail.com**
 
-- ⚡ Fun fact **I love dogs and have a puppy named Romi❤️**
+- ⚡ Fun fact **I love dogs and have a puppy - Romi❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
