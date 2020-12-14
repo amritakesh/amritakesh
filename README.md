@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrita</h1>
 <h3 align="center">Learner | Coder | Cybersecurity & CTF enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://images.all-free-download.com/images/graphiclarge/autumn_painting_walking_girl_dog_icon_cartoon_sketch_6845887.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 
