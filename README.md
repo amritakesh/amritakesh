@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/amrita_kesh?logo=twitter&style=for-the-badge" alt="amrita_kesh" /></a> </p>
+[![GitHub followers](https://img.shields.io/github/followers/iammanish17?label=Follow&style=social)](https://github.com/amritakesh/?tab=followers)
+[![Mail Badge](https://img.shields.io/badge/-manishkundu@live.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:amritaraneekesh@gmail.com)](mailto:amritaraneekesh@gmail.com)
+
 
 - 🌱 I’m currently learning **PYTHON & WEB DEVELOPMENT**
 
