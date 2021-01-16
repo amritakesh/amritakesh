@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/amrita_kesh?logo=twitter&style=for-the-badge" alt="amrita_kesh" /></a> </p>
 
 
-- 🌱 I’m currently learning **PYTHON & WEB DEVELOPMENT**
+- 👩🏻‍💻 I’m currently learning **PYTHON & WEB DEVELOPMENT**
 
 - 💬 Ask me about **C++ & JAVA**
 
