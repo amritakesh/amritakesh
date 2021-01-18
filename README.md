@@ -13,7 +13,7 @@
 
 - 📫 Feel free to contact me **amritaraneekesh@gmail.com**
 
-- ⚡ Fun fact **I love dogs and have a puppy named Romi <3 **
+- ⚡ Fun fact **I love dogs and have a puppy named Romi <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
