@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMRITA</h1>
-<h3 align="center">LEARNER ~ CODER ~ OPEN SOURCE ENTHUSIAST</h3>
+<h3 align="center">LEARNER ~ CODER ~ MACHINE LEARNING ENTHUSIAST</h3>
 <img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/amrita_kesh?logo=twitter&style=for-the-badge" alt="amrita_kesh" /></a> </p>
 
 
-- 👩🏻‍💻 I’m currently learning **PYTHON & WEB DEVELOPMENT**
+- 👩🏻‍💻 I’m currently learning **PYTHON & MACHINE LEARNING**
 
 - 💬 Ask me about **C++ & JAVA**
 
