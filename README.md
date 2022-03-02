@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm AMRITA</h1>
-<h3 align="center">LEARNER ~ CODER ~ MACHINE LEARNING ENTHUSIAST</h3>
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
+<h1 >👋 I'm AMRITA, Nice to see you.🤗</h1>
+<br>
+<h3 align="center" >LEARNER ~ CODER ~ MACHINE LEARNING ENTHUSIAST</h3>
 <img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
