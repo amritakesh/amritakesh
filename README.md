@@ -4,6 +4,8 @@
 <h3 align="center" >LEARNER ~ CODER ~ MACHINE LEARNING ENTHUSIAST</h3>
 <img align="right" alt="coding" width="400" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCy7FIFKKB9CyLfPqsQX5lvU2OHMFHMPGbBRbscEOk9G4qxryUjrlu73AiQq4aKCHw" >
 
+
+[![GitHub followers](https://img.shields.io/github/followers/amritakesh?label=Follow&style=social)](https://github.com/amritakesh/?tab=followers)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/amrita_kesh?logo=twitter&style=for-the-badge" alt="amrita_kesh" /></a> </p>
